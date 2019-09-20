@@ -1,3 +1,3 @@
-# Recursos gràics de l'ICGC
+# Recursos gràfics de l'ICGC
 
 Logos, icones, etc.
